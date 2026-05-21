@@ -1,3 +1,6 @@
+//Author: Tsamo Tchinda Rooswell
+
+
 // ============================================================
 //  server.js  —  Point d'entrée de l'application
 //  Serveur HTTP brut Node.js, sans aucun framework.
