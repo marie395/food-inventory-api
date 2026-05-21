@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": 2,
+      "name": "Rice",
+      "category": "grains",
+      "quantity": 200,
+      "unit": "kg",
+      "price": 650
+    },
+    {
+      "id": 3,
+      "name": "Palm Oil",
+      "category": "oils",
+      "quantity": 30,
+      "unit": "L",
+      "price": 1200
+    },
+    {
+      "id": 4,
+      "name": "Groundnuts",
+      "category": "legumes",
+      "quantity": 80,
+      "unit": "kg",
+      "price": 900
+    },
+    {
+      "id": 5,
+      "name": "Maize",
+      "category": "grains",
+      "quantity": 150,
+      "unit": "kg",
+      "price": 350
+    },
+    {
+      "id": 6,
+      "name": "Maize",
+      "category": "grains",
+      "quantity": 150,
+      "unit": "kg",
+      "price": 350
+    }
+  ]
+}
